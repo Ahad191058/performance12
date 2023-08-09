@@ -1,0 +1,28 @@
+a {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: fuchsia;
+    color: brown;
+    text-transform: capitalize;
+    text-shadow: 4px -2px 2px black;
+}
+
+p {
+    text-indent: 50px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 30px;
+    white-space: pre-line;
+}
+
+#p1{
+    font-family:cursive;
+}
+
+#p2{
+    font-family: Lobster;
+}
+
+#p3{
+    font-family:Borel;
+}
